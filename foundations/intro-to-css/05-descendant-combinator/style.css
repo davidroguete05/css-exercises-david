@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+.container p {
+background-color: yellow;
+color:hsla(9, 97%, 56%, 0.836);
+font-size: 20px;
+text-align: center;
+}
